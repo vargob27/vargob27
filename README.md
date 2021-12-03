@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Bryce and I am a full stack developer. I am from Pittsburgh, PA but currently live in South West Florida.
+
+I spent the last year learning Python, Java, JavaScript, and some C#
+I enrolled in Coding Dojo back in April and enjoyed learning Django, Spring, and MERN
 <!--
 **vargob27/vargob27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
